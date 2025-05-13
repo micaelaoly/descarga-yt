@@ -26,6 +26,23 @@ Si no tienes estos programas instalados, el script los instalará automáticamen
 6. Finalmente, te mostrará la **duración** de los archivos descargados (tanto del audio como del vídeo sin audio) y te informará cuando el proceso haya terminado.
 
 
+## 🧾 Cómo descargar este script
+
+### Desde GitHub
+
+1. Ve al repositorio de GitHub:  
+   `https://github.com/micaelaoly/descarga-yt`
+
+2. Haz clic en el botón verde que dice **"Code"**.
+
+3. Selecciona **"Download ZIP"**.
+
+4. Extrae el archivo ZIP en la carpeta que prefieras .
+
+5. Entra a la carpeta extraída y verás un archivo llamado `descarga_yt.sh`.
+
+   
+
 ## Pasos para usar el script
 
 1. **Instalar dependencias** (si no las tienes):
@@ -36,11 +53,18 @@ Si no tienes estos programas instalados, el script los instalará automáticamen
    sudo apt install -y yt-dlp ffmpeg
 
 2. **Dar permisos de ejecución**:
+   Ve a la carpeta donde guardaste el script.
+   ```bash
+   cd ~/Descargas/descarga-yt
    ```bash
    sudo chmod +x descarga_yt.sh
   
-3. **Uso del script**:
+4. **Uso del script**:
    ```bash
    ./descarga_yt.sh
+
+
+
+
 
    
