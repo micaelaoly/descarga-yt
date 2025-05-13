@@ -39,7 +39,8 @@ Si no tienes estos programas instalados, el script los instalará automáticamen
    ```bash
    sudo chmod +x descarga_yt.sh
   
-3. **Uso del script**: 
+3. **Uso del script**:
+   ```bash
    ./descarga_yt.sh
 
    
