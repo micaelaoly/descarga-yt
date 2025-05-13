@@ -26,7 +26,7 @@ Si no tienes estos programas instalados, el script los instalará automáticamen
 6. Finalmente, te mostrará la **duración** de los archivos descargados (tanto del audio como del vídeo sin audio) y te informará cuando el proceso haya terminado.
 
 
-## 🧾 Cómo descargar este script
+## Cómo descargar este script
 
 ### Desde GitHub
 
@@ -61,10 +61,4 @@ Si no tienes estos programas instalados, el script los instalará automáticamen
   
 4. **Uso del script**:
    ```bash
-   ./descarga_yt.sh
-
-
-
-
-
-   
+   ./descarga_yt.sh 
